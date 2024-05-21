@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73337969579",
+    "project_id": "meuapp-8d29c",
+    "storage_bucket": "meuapp-8d29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73337969579:android:7ae58508e68d7eb84c50ee",
+        "android_client_info": {
+          "package_name": "com.devpost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMkB5kVwfEoQK823PWqlWX7LpqRW_02o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
