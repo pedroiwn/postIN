@@ -102,11 +102,13 @@ const Login = () => {
         />
       )}
       <Input
+        placeholderTextColor='#fff'
         placeholder='Email'
         value={email}
         onChangeText={setEmail}
       />
       <Input
+        placeholderTextColor='#fff'
         placeholder='Senha'
         secureTextEntry
         value={password}

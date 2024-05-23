@@ -24,6 +24,14 @@ export default function Profile() {
     });
   };
 
+  async function uploadProfile() {
+    
+  }
+
+  const uploadFile = () => {
+    alert('text')
+  }
+
  return (
    <View style={styles.container}>
     <View style={styles.profileContainer}>
